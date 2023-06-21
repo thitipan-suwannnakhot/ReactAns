@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.MyHeader {
+  background-color: rgb(159, 25, 189);
+  text-align: center;
+}
+
+.MyFooter {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.MyContent {
+  text-align: center;
+  font-size: large;
+  padding: 2em;
+  margin-bottom: 1em;
+  border-radius: 15px;
+  border: 2px solid;
+}
+
+.btn-default {
+  background: #3c0ee4;
+  color: #fff;
+  border-radius: 3.5pt;
+  box-shadow: 1px 2px 5px #000000;
+  height: 2.5pc;
+  width: 3.5pc;
+}
+
+.btn-secon {
+  background: #5e5d62;
+  color: #fff;
+  border-radius: 3.5pt;
+  box-shadow: 1px 2px 5px #000000;
+  height: 2.5pc;
+  width: 3pc;
+}
